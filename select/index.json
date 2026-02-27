@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "めらめら妄想",
+  "base_artist": "みいらみさと",
+  "createdAt": "2026-02-27T16:52:50.410097Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "めらめら妄想",
+      "artist": "みいらみさと",
+      "has_synced": false,
+      "path": "select/pl_01_めらめら妄想_みいらみさと.txt"
+    }
+  ]
+}
